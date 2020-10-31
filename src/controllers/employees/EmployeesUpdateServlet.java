@@ -1,4 +1,4 @@
-package EmployeesUpdateServlet;
+package controllers.employees;
 
 import java.io.IOException;
 import java.sql.Timestamp;
