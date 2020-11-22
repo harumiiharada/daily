@@ -165,3 +165,23 @@ h3 {
     font-size: larger;
 }
 
+table#company_list th {
+    font-weight: bold;
+    padding: 10px 2%;
+}
+
+table#company_list .company_name {
+    width: 20%;
+    padding: 10px 2%;
+}
+table#company_list .contract_date {
+    width: 20%;
+}
+
+table#company_list .president {
+    width: 37%;
+}
+
+table#report_list .company_action {
+    width: 13%;
+}
